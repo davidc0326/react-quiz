@@ -1,0 +1,7 @@
+
+/* style for avater components */
+img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 50%;
+  }
